@@ -1,4 +1,4 @@
-class Qwt5 < Formula
+class Qwt < Formula
   desc "Qt Widgets for Technical Applications (v5.1)"
   homepage "http://qwt.sourceforge.net/"
   url "https://downloads.sourceforge.net/project/qwt/qwt/6.1.3/qwt-6.1.3.tar.bz2"
